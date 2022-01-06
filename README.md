@@ -1,4 +1,4 @@
-# <h1> Visualizing Musical Data 
+# <h1> Visualizing Musical Data. This project is from Datacamp.
 
 <h3> This project utilizes basic R  functions and libraries including Dplyr, ggplot2, and readr to manipulate and visualize musical data. I used bigrams and other functions to give a better understanding to the chord frequency and chord progression frequency.
  
